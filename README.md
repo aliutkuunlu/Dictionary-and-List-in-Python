@@ -1,6 +1,6 @@
 This is a simulation of "save the world" from a bad AI.
 
-Details are below...
+Details are below..
 
 
 In 2052, something went terribly wrong. For years there had
