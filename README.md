@@ -1,6 +1,6 @@
 This is a simulation of "save the world" from a bad AI.
 
-Details are below..
+This code has written for school experiment respect to below text that prepared by research assistant Selma Dilek
 
 
 In 2052, something went terribly wrong. For years there had
